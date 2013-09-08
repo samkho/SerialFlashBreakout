@@ -1,4 +1,5 @@
 - 3.3V label in front needs to be moved to the right a bit
 - there's a weird loop in the routed trace between pins 7, 8, and the capacitor
+	(electrically correct, but reroute for aesthetics)
 - there should probably be a label for U1 and C1
 - perhaps there should be a label for the value of the capacitor
