@@ -1,8 +1,11 @@
 SerialFlashBreakout
 ===================
 
-Breakout board for AT26DF161A-SU
+Breakout board for AT26DF161A-SU, in DipTrace format.
 
-![Screenshot](https://raw.github.com/samkho/SerialFlashBreakout/master/Front.png)
+![Front](https://raw.github.com/samkho/SerialFlashBreakout/master/Front.png)![Back](https://raw.github.com/samkho/SerialFlashBreakout/master/Back.png)
 
-![Screenshot](https://raw.github.com/samkho/SerialFlashBreakout/master/Back.png)
+
+License
+=======
+MIT License
